@@ -3,3 +3,6 @@ git branch Mauri
 
 // Moverse a esa Rama
 git checkout Mauri
+
+// Pushear desde esta Rama
+git push origin Mauri
