@@ -1,0 +1,5 @@
+// Crear una nueva Rama
+git branch Mauri
+
+// Moverse a esa Rama
+git checkout Mauri
